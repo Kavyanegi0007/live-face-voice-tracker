@@ -14,6 +14,7 @@ store_node: updates shared state
 
 All modules update a central AgentState object.
 
+Python 3.11
 
 How to run:
 git clone https://github.com/Kavyanegi0007/live-face-voice-tracker.git
